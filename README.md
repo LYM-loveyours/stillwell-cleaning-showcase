@@ -3,7 +3,7 @@
 
 An original, interactive cleaning-service concept by [Love Yours Media](https://loveyoursmedia.com/).
 
-**[Explore the live concept →](https://stillwell-cleaning-lym.netlify.app/)** · **[Try the estimator →](https://stillwell-cleaning-lym.netlify.app/#estimate)** · **[Browse LYM examples →](https://loveyoursmedia.com/examples/)**
+**[Explore the live concept →](https://preview--stillwell-cleaning-lym.netlify.app/)** · **[Try the estimator →](https://preview--stillwell-cleaning-lym.netlify.app/#estimate)** · **[Browse LYM examples →](https://loveyoursmedia.com/examples/)**
 
 ![Stillwell desktop homepage](screenshots/desktop-home.png)
 
