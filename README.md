@@ -10,7 +10,7 @@ An original, interactive cleaning-service concept by [Love Yours Media](https://
 ## The idea
 Cleaning-service websites often ask visitors to commit before they understand the price or scope. Stillwell makes the service tangible: choose a clean, adjust the property, add the details that matter and see an itemised illustrative estimate before exploring a booking.
 
-A warm, architectural composition pairs Petrona typography with Manrope, forest green, ivory and sage. The original design uses a considered editorial rhythm rather than a generic feature-card template. The responsive estimator keeps the sample price close to the controls on mobile.
+A warm, architectural composition pairs Petrona typography with Manrope, forest green, ivory and sage. The original design uses a considered editorial rhythm rather than a generic feature-card template. The configurator follows immediately after the hero, before service and approach sections. The responsive estimator keeps the sample price close to the controls on mobile.
 
 ## Explore the journey
 1. Everyday, deep, moving or guest-turnover clean.
